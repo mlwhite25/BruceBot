@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Bruce bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "pm2-windows-service": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megan White",
+  "license": "ISC"
+}
